@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bull stock calculator">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#ffffff"/>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="none" stroke="#dcdfe6" stroke-width="3"/>
+  <path d="M16 43 L27 32 L37 37 L49 21" fill="none" stroke="#f56c6c" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M45 21 H50 V26" fill="none" stroke="#f56c6c" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 48 H47" fill="none" stroke="#67c23a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="27" cy="32" r="3.5" fill="#ffffff"/>
+  <circle cx="37" cy="37" r="3.5" fill="#ffffff"/>
+</svg>
